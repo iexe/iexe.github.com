@@ -1,4 +1,4 @@
-iexe.github.com
+http://iexe.github.com
 ================
 
 爱程序代码分享库:
